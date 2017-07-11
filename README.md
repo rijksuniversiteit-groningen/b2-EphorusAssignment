@@ -13,3 +13,6 @@ This building block requires a license key. Please contact Nestorsupport (nestor
 
 - Fix for 'missing vital information' when viewing a report for an instructor upload.
 - Prevent JavaScript exception in listDocuments for individual assignments.
+
+#### Supported Blackboard versions
+Q2 2016-Q2 2017
