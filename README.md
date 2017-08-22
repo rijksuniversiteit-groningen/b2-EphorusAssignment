@@ -1,13 +1,24 @@
 # Ephorus Assignment
 This building block provides an Ephorus integration with Blackboard. Instructors can create specific Ephorus assignments in their courses, for which all submitted work will be scanned by Ephorus for plagiarism.
 
-This building block requires a license key. Please contact Nestorsupport (nestorsupport@rug.nl) for any questions.
+To use this building block you need a contract with Ephorus (now owned by Turnitin). Please contact 
+Turnitin Ephorus Support <ephorussupport@turnitin.com> for any questions regarding this building block.
 
 ## Links
 - [Download Latest Release](https://github.com/rijksuniversiteit-groningen/b2-EphorusAssignment/releases/latest)
 - [View All Releases](https://github.com/rijksuniversiteit-groningen/b2-EphorusAssignment/releases)
 
 ## Release Notes
+
+### 3000.170822.0
+
+- Now compatible with the LIS data integration building blocks.
+- Students can now download feedback that has a "+" in its filename.
+- Fixed the "Change Status" buttons in My Documents.
+- Display a message when Blackboard cannot send the e-mail from the rework submission page.
+
+#### Supported Blackboard versions
+Q2 2016-Q2 2017
 
 ### 3000.170411
 
