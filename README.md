@@ -12,6 +12,13 @@ Turnitin Ephorus Support <ephorussupport@turnitin.com> for any questions regardi
 
 ### 3000.170822.0
 
+- rework function was broken in version 3000.170822.0 
+
+#### Supported Blackboard versions
+Q2 2016-Q2 2017
+
+### 3000.170822.0
+
 - Now compatible with the LIS data integration building blocks.
 - Students can now download feedback that has a "+" in its filename.
 - Fixed the "Change Status" buttons in My Documents.
