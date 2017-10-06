@@ -10,7 +10,7 @@ Turnitin Ephorus Support <ephorussupport@turnitin.com> for any questions regardi
 
 ## Release Notes
 
-### 3000.170822.0
+### 3000.171006.0
 
 - rework function was broken in version 3000.170822.0 
 
