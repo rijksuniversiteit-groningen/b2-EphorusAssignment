@@ -10,6 +10,14 @@ Turnitin Ephorus Support <ephorussupport@turnitin.com> for any questions regardi
 
 ## Release Notes
 
+### 3200.180321.0
+
+- in Blackboard 2017Q4 adding an attachment to an Ephorus assignment gave an error
+
+#### Supported Blackboard versions
+Q2 2017-Q4 2017
+
+
 ### 3000.171006.0
 
 - rework function was broken in version 3000.170822.0 
