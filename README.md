@@ -10,6 +10,13 @@ Turnitin Ephorus Support <ephorussupport@turnitin.com> for any questions regardi
 
 ## Release Notes
 
+### 3400.181115.0
+- compatible with Blackboard release 2018 Q2 ("3400.0.x"), older versions of the building block will _not_ work correctly in this Blackboard version
+- fixed error when someone is using the cross-course navigation 
+- option to use logging in a format that Blackboard SAAS expects
+- option (experimental) to send logging to an ElasticSearch server
+- new privilege "Resubmit documents to refresh their plagiarism report" which gives a "resubmit" button in the assignment document list; by default only visible to system administrators
+
 ### 3200.180321.0
 
 - in Blackboard 2017Q4 adding an attachment to an Ephorus assignment gave an error
