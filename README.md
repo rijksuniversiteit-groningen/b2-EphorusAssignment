@@ -10,6 +10,10 @@ Turnitin Ephorus Support <ephorussupport@turnitin.com> for any questions regardi
 
 ## Release Notes
 
+### 3400.190704.0
+- compatible with Blackboard release 2018 Q4 ("3500.0.x"), older versions of the b2 give 'RuntimePermission" "createSecurityManager"' error in the logs
+- fixed exception when a group assignment is already submitted but student is also in another group that is unavailable
+
 ### 3400.181115.0
 - compatible with Blackboard release 2018 Q2 ("3400.0.x"), older versions of the building block will _not_ work correctly in this Blackboard version
 - fixed error when someone is using the cross-course navigation 
