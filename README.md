@@ -10,8 +10,8 @@ Turnitin Ephorus Support <ephorussupport@turnitin.com> for any questions regardi
 
 ## Release Notes
 
-### 3400.190704.0
-- compatible with Blackboard release 2018 Q4 ("3500.0.x"), older versions of the b2 give 'RuntimePermission" "createSecurityManager"' error in the logs
+### 3400.190724.0
+- compatible with Blackboard release 2018 Q4 ("3500.0.x"), older versions of the b2 give 'RuntimePermission" "createSecurityManager"' and 'unsupported connection class: blackboard.db.impl.SafetyNetConnection' errorsin the logs
 - fixed exception when a group assignment is already submitted but student is also in another group that is unavailable
 
 ### 3400.181115.0
