@@ -10,6 +10,9 @@ Turnitin Ephorus Support <ephorussupport@turnitin.com> for any questions regardi
 
 ## Release Notes
 
+### 3400.190919.0
+- Removed the filter on invalid XML characters for the incoming reports. This fixes that a report will not show Microsoft quotation marks, but there is a risk that a report will not be accepted; keep an eye on the "list missing reports" page found on the main Ephorus configuration page.
+
 ### 3400.190726.0
 - compatible with Blackboard release 2018 Q4 ("3500.0.x"), older versions of the b2 give 'RuntimePermission" "createSecurityManager"' and 'unsupported connection class: blackboard.db.impl.SafetyNetConnection' errorsin the logs
 - fixed exception when a group assignment is already submitted but student is also in another group that is unavailable
