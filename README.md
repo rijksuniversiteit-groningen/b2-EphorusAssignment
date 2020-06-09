@@ -10,6 +10,10 @@ Turnitin Ephorus Support <ephorussupport@turnitin.com> for any questions regardi
 
 ## Release Notes
 
+### 3800.200605.1
+- compatible with Blackboard 2019 Q4; compiled with Java 11 so not compatible with older Blackboard versions
+- when an instructor adds a file as feedback to a group assignment all group members can now download this file instead of just the person who submitted the assigment; this is only for newly uploaded feedback files, not for feedback files that were uploaded in previous versions
+
 ### 3400.190919.0
 - Removed the filter on invalid XML characters for the incoming reports. This fixes that a report will not show Microsoft quotation marks, but there is a risk that a report will not be accepted; keep an eye on the "list missing reports" page found on the main Ephorus configuration page.
 
